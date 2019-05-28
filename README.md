@@ -39,3 +39,9 @@ We only change `ports` configuration in `docker-compose.yml` and run compose aga
 nano docker-compose.yml
 docker-compose up -d
 ```
+
+If it is ok, you will see the output like below:
+
+```
+Recreating docker-compose-node_app_1 ... done
+```
